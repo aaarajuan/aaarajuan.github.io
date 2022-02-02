@@ -12,12 +12,12 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = ` about --aaarajuan
+  var txt = `about --aaarajuan
             [Your Query is Loading...]
 
             ###links bellow to know your informations.
 
-            - <a href="https://drive.google.com/link/download-cv">Education</a></li>
+            - <a href="https://drive.google.com/link/download-cv">Education</a>
             - Skills
             - Subscriptions
             - Languages`;
