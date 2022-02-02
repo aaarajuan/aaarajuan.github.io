@@ -13,7 +13,7 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `about --aaarajuan
-            [Your Query is Loading...]
+            [ Your Query is Loading... ]
 
             ###links bellow to know your informations.
 
