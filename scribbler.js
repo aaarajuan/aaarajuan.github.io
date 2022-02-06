@@ -13,14 +13,15 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `about --aaarajuan
+
             [ Your Query is Loading... ]
 
-            ###links bellow to know your informations.
+            ### Informations About @aaarajuan (Al-Arashad Ahmed Rajuan):
 
-            - <a href="https://drive.google.com/link/download-cv">Education</a>
-            - Skills
-            - Subscriptions
-            - Languages`;
+            - Education: SSC, Diploma, BSc.
+            - Skills: 
+            - Certificates:
+            - Languages: Bengali, English`;
   var speed = 60;
 
   function typeItOut () {
