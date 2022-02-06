@@ -16,7 +16,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             [ Your Query is Loading... ]
 
-            ### Your Searched Informations About @aaarajuan (Al-Arashad Ahmed Rajuan):
+            ### Informations About @aaarajuan (Al-Arashad Ahmed Rajuan):
 
             - Education: SSC, Diploma, BSc.
             - Skills: 
